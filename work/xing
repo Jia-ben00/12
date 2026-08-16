@@ -1,1 +1,6 @@
-123
+123# 删除ssh形式的origin
+git remote remove origin
+# 设置https远程地址
+git remote add origin https://github.com/Jia-ben00/12.git
+# 推送
+git push -u origin main
