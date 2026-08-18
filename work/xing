@@ -5,3 +5,4 @@ git remote add origin https://github.com/Jia-ben00/12.git
 # 推送
 git push -u origin main
 123
+1234
